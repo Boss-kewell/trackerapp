@@ -94,6 +94,9 @@ class _HomePageState extends State<HomePage> {
                         ],
                       ),
                     ),
+                    SizedBox(
+                      height: 20,
+                    ),
                     Container(
                       height: 150,
                       decoration: BoxDecoration(
